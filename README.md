@@ -6,5 +6,5 @@ This repo serves as a place to store documentation and policies for the governan
 
 ## Navigation
 
-- [DevOps Strategy](./docs/devops-strategy.md/)
+- [DevOps Strategy](./docs/devops-strategy.pdf)
 - [Testing Strategy](./docs/testing-strategy.md)
