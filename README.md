@@ -7,4 +7,5 @@ This repo serves as a place to store documentation and policies for the governan
 ## Navigation
 
 - [DevOps Strategy](./docs/devops-strategy.pdf)
-- [Testing Strategy](./docs/testing-strategy.md)
+- [Testing Strategy](./docs/testing-strategy.pdf)
+- [Testing Strategy Applied to GovTool](./docs/testing-strategy-govtool-applied.pdf)
